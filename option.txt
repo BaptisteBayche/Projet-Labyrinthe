@@ -1,0 +1,9 @@
+taille_matrice:8
+score1:00:08
+score2:00:13
+score3:00:26
+index_perso:1
+taille_fenetre:680
+taille_carre:40
+vitesse_deplacement:2
+musique:True
